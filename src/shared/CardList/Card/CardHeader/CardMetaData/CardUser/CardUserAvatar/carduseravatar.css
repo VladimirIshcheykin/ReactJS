@@ -1,0 +1,7 @@
+.cardUserAvatar {
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    border-radius: 100%;
+    box-shadow: none;
+}

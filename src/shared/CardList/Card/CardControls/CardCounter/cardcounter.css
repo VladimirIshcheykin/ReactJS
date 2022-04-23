@@ -1,0 +1,18 @@
+.cardCounter {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.cardCounter:before {
+    content: 'Likes:';
+    margin-right: 5px;
+}
+
+.cardCounterUp {
+    display: none;
+}
+
+.cardCounterDown {
+    display: none;
+}

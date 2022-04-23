@@ -1,0 +1,7 @@
+.cardControls {
+    display: flex;
+}
+
+.cardControls>* {
+    margin-right: 20px;
+}

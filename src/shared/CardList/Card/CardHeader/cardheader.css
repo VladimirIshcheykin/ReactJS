@@ -1,0 +1,8 @@
+.cardHeader {
+    display: flex;
+    flex-direction: column;
+}
+
+.cardHeader>* {
+    margin-bottom: 20px;
+}

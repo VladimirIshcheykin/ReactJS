@@ -1,0 +1,19 @@
+.cardMenuItems svg {
+    display: none;
+}
+
+.cardMenuItems {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #aaa;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.cardMenuItems>* {
+    margin-bottom: 5px;
+}
+
+.cardMenuItems>*:last-child {
+    margin-bottom: 0;
+}
