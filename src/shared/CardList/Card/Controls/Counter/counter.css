@@ -1,0 +1,18 @@
+.counter {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.counter:before {
+    content: 'Likes:';
+    margin-right: 5px;
+}
+
+.counterUp {
+    display: none;
+}
+
+.counterDown {
+    display: none;
+}

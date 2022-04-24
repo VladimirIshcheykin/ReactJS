@@ -1,8 +1,0 @@
-.cardComments:before {
-    content: 'Комментарии:';
-    margin-right: 5px;
-}
-
-.cardCommentsButton svg {
-    display: none;
-}

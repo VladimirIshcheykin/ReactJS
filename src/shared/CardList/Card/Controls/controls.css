@@ -1,0 +1,7 @@
+.controls {
+    display: flex;
+}
+
+.controls>* {
+    margin-right: 20px;
+}

@@ -1,0 +1,8 @@
+.metaData {
+    display: flex;
+    align-items: center;
+}
+
+.metaData>* {
+    margin-right: 20px;
+}

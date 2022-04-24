@@ -1,8 +1,0 @@
-.cardMetaData {
-    display: flex;
-    align-items: center;
-}
-
-.cardMetaData>* {
-    margin-right: 20px;
-}

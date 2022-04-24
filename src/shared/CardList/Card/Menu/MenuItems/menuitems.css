@@ -1,0 +1,19 @@
+.menuItems svg {
+    display: none;
+}
+
+.menuItems {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #aaa;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.menuItems>* {
+    margin-bottom: 5px;
+}
+
+.menuItems>*:last-child {
+    margin-bottom: 0;
+}

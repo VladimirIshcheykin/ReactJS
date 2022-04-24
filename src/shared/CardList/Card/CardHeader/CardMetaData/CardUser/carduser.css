@@ -1,8 +1,0 @@
-.cardUser {
-    display: flex;
-    align-items: center;
-}
-
-.cardUser>* {
-    margin-right: 10px;
-}
